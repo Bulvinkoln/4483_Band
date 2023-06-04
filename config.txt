@@ -1,1 +1,7 @@
-файл с конфигами
+### instuctions for git
+1. create an account on git gub
+2. create a local repo
+3. connect local repo and long distance repo
+4. send your repo tothe long distance one 
+5. do changes on "other computer"
+6. pull the needed state from long distance repo
